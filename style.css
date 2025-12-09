@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #772070;
+    color: #FFD173;
+    padding: 10px;
+    border: 2px solid #772070;
+    border-radius: 10px;
+} 
+header b{
+    margin-left: 15px;
+
+}
+
+header a{
+    background-color: #5ED0B0;
+    padding: 5px;
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    color: #65016C;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #65016C;
+}
+footer{
+    background-color: #772070;
+    padding: 10px;
+    border: 2px solid #772070;
+    border-radius: 10px;
+}
+footer p{
+    background-color: #FFD173;
+    padding: 5px;
+    border-radius: 5px;
+    color: #65016C;
+}
+
+nav{
+    text-align: center;
+    margin-top: 20px;
+}
+nav a{
+    text-decoration: none;
+    background-color: #1E796A;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+select {
+    background-color: #1E796A;
+    font-size: 18px;
+    color: white;
+    border: 3px solid #FFC040;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+option {
+    background-color: #FFC040;
+    
+}
+.product {
+    background-color: #FFC040;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #772070;
+    color: #772070;
+}
+.product b{
+    margin-left: 15px;
+    font-size: 20px;
+}
+main {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #006957;
+    border: 2px solid #006957;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+h2 {
+    color: #FFAB00;
+    border-top: 3px solid #65016C;
+    border-bottom: 3px solid #65016C;
+    padding: 5px;
+    text-align: center;
+
+}
